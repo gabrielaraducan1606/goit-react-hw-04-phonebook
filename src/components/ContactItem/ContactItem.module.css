@@ -1,0 +1,7 @@
+.buttonDelete button{
+    margin-left: 20px;
+    border-radius: 20%;
+     background-color: orangered;
+ border-color: orangered;
+ color: black;
+}
